@@ -1,9 +1,7 @@
 html body{
     background-color: whitesmoke;
-    border: 0;
     height: 100%;
     margin: 0;
-    padding: 0;
 }
 
 button{
@@ -22,12 +20,6 @@ button{
     height: 100vh;
     justify-content: center;
     width: 100vw;
-    padding: 16px;
-    
-}
-h5{
-    margin-bottom: 20px;
-    text-align: center;
 }
 
 #login-box {
