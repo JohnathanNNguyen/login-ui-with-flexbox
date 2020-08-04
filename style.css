@@ -1,6 +1,8 @@
 html body{
-    background-color: whitesmoke;
-    font-family: Didot, sans-serif;
+    background-image: url("https://www.goodfreephotos.com/albums/bolivia/other-bolivia/mountains-and-lake-landscape-scenic.jpg");
+    background-attachment: center;
+    background-position: center;
+    background-repeat: no-repeat;
     height: 100%;
     margin: 0;
 }
@@ -10,7 +12,6 @@ button{
     border: none;
     border-radius: 20px;
     color: white;
-    
     width: 80%;
     padding: 15px;
     margin-top: 40px;
@@ -30,9 +31,9 @@ button:hover{
 
 #login-box {
     align-items: center;
-    background-color: rgba(255, 255, 255, 0.87);
+    background-color: rgba(255, 255, 255, 0.872);
     border-radius: 58px;
-    box-shadow:0px 0px 70px 10px rgb(207, 207, 207);
+    box-shadow:0px 0px 70px 5px rgb(207, 207, 207);
     display: flex;
     min-height: 300px;
     min-width: 350px;
